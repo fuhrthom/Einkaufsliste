@@ -1,2 +1,4 @@
 # Einkaufsliste
-Eine einfache Einkaufsliste für das Praktikum als Übung
+#### Eine einfache Einkaufsliste für das Praktikum als Übung
+
+# Thomas
